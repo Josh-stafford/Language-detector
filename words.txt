@@ -12,7 +12,6 @@ PRIMEIRA.portuguese
 NIGHTMARE.english
 FAZENDOA.portuguese
 GRABBING.english
-JE.english
 FERVENDO.portuguese
 DESISTE.portuguese
 PLACES.english
